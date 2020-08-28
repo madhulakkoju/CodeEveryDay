@@ -1,1 +1,2 @@
-# CodingQuestions-
+# CodingQuestions
+# Code EveryDay
